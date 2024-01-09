@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Rohaenat-Eniola-Mustapha
+- 👋 Hi, I’m Rohaenat Eniola Mustapha
 - 👀 I’m interested in Full Stack Web Development
 - 🌱 I’m currently learning Python Django, MySQL, Product and Graphic Design
 - 💞️ I’m looking to collaborate on Backend and FrontEnd development
