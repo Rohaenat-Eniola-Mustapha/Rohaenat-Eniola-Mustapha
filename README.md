@@ -32,7 +32,7 @@ Feel free to explore them by checking out the repositories listed on my profile.
 
 ## 📈 GitHub Stats
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Rohaenat's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rohaenat-Eniola-Mustapha)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 📣 Let's Connect
 
