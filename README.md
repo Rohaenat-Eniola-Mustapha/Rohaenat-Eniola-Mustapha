@@ -32,7 +32,7 @@ Feel free to explore them by checking out the repositories listed on my profile.
 
 ## 📈 GitHub Stats
 
-![Rohaenat's GitHub Stats](https://github-readme-stats.vercel.app/api?Rohaenat-Eniola-Mustapha=yourgithubusername&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)
+![Rohaenat's GitHub Stats](https://github-readme-stats.vercel.app/apiRohaenat-Eniola-Mustaphaanuraghazra)
 
 ## 📣 Let's Connect
 
